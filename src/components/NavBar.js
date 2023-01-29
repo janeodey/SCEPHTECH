@@ -6,7 +6,7 @@ const NavBar = () =>{
         <div className="nav">
             <div className="navContainer">
                 <div className="logo">
-                    <img src={scephtech} alt="" style={{width:"150px"}} />
+                    <img src={scephtech} alt="" style={{width:"250px"}} />
                 </div>
                 <ul className="navList">
                     <li><a href="#" className="btnStart">Start a Tour</a></li>
